@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class hola{
 
-    //EL METODE
+    //EL METODE PRINCIPAL
     public static void main(String[] args) throws IOException {
 
         //STRING PER GUARDAR RUTA FITXER
